@@ -1,0 +1,27 @@
+{
+  "name": "translato",
+  "version": "1.0.0",
+  "description": "Translato is a javascript library that helps to translate a html page into different languages with a previous defined JSON dictionary.",
+  "main": "translato.js",
+  "scripts": {
+    "test": "node translato.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dobschal@github.com/dobschal/translato.git"
+  },
+  "keywords": [
+    "translation",
+    "language",
+    "international",
+    "dictionary",
+    "translate",
+    "wording"
+  ],
+  "author": "Sascha Dobschal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dobschal/translato/issues"
+  },
+  "homepage": "https://github.com/dobschal/translato#readme"
+}
