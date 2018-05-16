@@ -6,7 +6,7 @@ Translato is a javascript library that helps to translate a html page into diffe
 
 ## Installation
 
-Drop the following into your page:
+Install via NodeJS and NPM:
 
 ```bash
 npm install translato --save
